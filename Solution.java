@@ -98,4 +98,13 @@ public class Solution {
         System.out.println("--------------------");
 
     }
+
+    public ListNode[] splitListToParts(ListNode head, int k) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'splitListToParts'");
+    }
+
+    ListNode[] splitListToParts(ListNode head, int k) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
 }
