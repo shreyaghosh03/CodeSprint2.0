@@ -107,4 +107,9 @@ public class Solution {
     ListNode[] splitListToParts(ListNode head, int k) {
         throw new UnsupportedOperationException("Not supported yet.");
     }
+
+    public String findMissingNumber(int[] nums) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'findMissingNumber'");
+    }
 }
